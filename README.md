@@ -10,3 +10,19 @@ How It Works
 
 Example
 
+
+Files
+
+- jpg_to_pgm_converter.py — Convert JPEG to PGM.
+- pgm_to_output_loops_conditional.py — Generates the ASCII printing logic.
+- ascii_art_code.py — The generated ASCII art script.
+- face3.pgm, "Jhumpa_lahiri_test_image.jpeg" — Sample files.
+
+Requirements
+
+- Python 3.x
+- PIL (for image → PGM conversion)
+
+ License
+
+MIT License
